@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/antonyrubyalexia/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_html_to_pdf-0.6.1/android/src/main/AndroidManifest.xml

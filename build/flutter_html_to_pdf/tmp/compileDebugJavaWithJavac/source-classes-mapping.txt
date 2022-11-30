@@ -1,0 +1,2 @@
+com/afur/flutterhtmltopdf/BuildConfig.java
+ com.afur.flutterhtmltopdf.BuildConfig

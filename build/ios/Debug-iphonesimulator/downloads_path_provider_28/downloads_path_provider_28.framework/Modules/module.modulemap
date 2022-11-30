@@ -1,0 +1,6 @@
+framework module downloads_path_provider_28 {
+  umbrella header "downloads_path_provider_28-umbrella.h"
+
+  export *
+  module * { export * }
+}
